@@ -1,0 +1,18 @@
+Create virtual environment
+python3 -m venv numpy_venv
+
+
+Start virtual environment 
+source numpy_venv/bin/activate
+
+
+To close the virtual environment
+deactivate
+
+To run server script:
+start v_env > navigate to script folder > run command 
+python <script-name>
+
+
+If it doesnt recognize python etc
+sudo apt install python  python3-venv python3-pip
